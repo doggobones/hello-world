@@ -27,3 +27,6 @@ Alright that's it for now. Going to try to remember to come back and update this
 If anyone reads this and has anything helpful to toss my way it'd be appreciated. Or if not just sit back and wait for more updates you might get some chuckles out of 'ole bonehead.
 
 # ttyl, -bonehead
+
+# Looks like i jumped the gun
+had to circle back, following the tut and i edited the read-me before making a new branch. making some changes to test branching and merging.
